@@ -8,7 +8,7 @@ export const sliderItems = [
     },
     {
       id: 2,
-      img: "https://www.creativeideas.store/media/catalog/product/cache/858cbd3e9398ab232d8dbcc859da8b7d/o/f/official_shah_rule_merchandise_your_majesty_oversize_black_tshirt_front.jpg",
+      img: "https://www.myfandom.store/media/catalog/product/cache/d29dc733f19a0229b9c7dddb18d84d38/o/f/official_shah_rule_merchandise_your_majesty_oversize_black_tshirt_back.jpg",
       title: "T-SHIRT COLLECTION",
       desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
       bg: "f3f5f4",
@@ -25,18 +25,21 @@ export const sliderItems = [
   export const categories = [
     {
       id: 1,
-      img: "https://gullygangmerch.com/cdn/shop/products/Hoodie_4_copy_720x.jpg?v=1594910008",
-      title: "HOODIES",
+      img: "https://wrogn.com/cdn/shop/files/4_3a126de6-ac8c-457c-9f9f-c2313b5edd48.jpg?v=1713803372&width=375",
+      title: "T SHIRTS",
+      cat: "tshirt"
     },
     {
       id: 2,
-      img: "https://ik.imagekit.io/merchbay/seller/productimage/2ea3012e-126c-40d1-acca-ce2bde740ba3.jpg?tr=w-500,dpr-2,q-50,f-jpg,pr-true",
-      title: "SWEATSHIRTS",
+      img: "https://wrogn.com/cdn/shop/files/3_52979390-061c-4972-9a6d-d576676db2b4.jpg?v=1707829306&width=550",
+      title: "JEANS",
+      cat: "jeans"
     },
     {
       id: 3,
       img: "https://grazia.wwmindia.com/content/2021/apr/krsna1617891000.jpg",
       title: "LIGHT JACKETS",
+      cat: "jacket"
     },
   ];
 
